@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/draw_map.png</file>
+        <file>icons/line_icon.png</file>
+        <file>icons/line_mode.png</file>
+        <file>icons/Frankenstein.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/cxcy.png</file>
+        <file>icons/sxsy.png</file>
+    </qresource>
+</RCC>
